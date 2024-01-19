@@ -1,1 +1,3 @@
 # Sugarcane-Leaf-Disease-Dataset
+
+Manually collected image dataset of sugarcane leaf disease. It has mainly five categories in it. Healthy, Mosaic, Redrot, Rust and Yellow disease. The dataset has been captured with smart phones of various configuration to maintain the diversity. It contains total 2569 images including all categories. This database has been collected in Maharashtra, India. The database is balanced and contains good variety. The image sizes are not constant as it originates form various capturing devices. All images are in RGB format.
